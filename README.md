@@ -1,2 +1,2 @@
 # velox
-An image sharing platform
+An image and video sharing application platform
