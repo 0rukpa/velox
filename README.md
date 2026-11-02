@@ -48,8 +48,8 @@ FastAPI generates docs automatically. Once the server is running, go to:
 
 | Method | Endpoint | What it does |
 | ------ | -------- | ------------ |
-| [GET] | [/endpoint] | [Short description] |
-| [POST] | [/endpoint] | [Short description] |
+| [GET] | [/feed] | [Shows feed of other users posts and yours] |
+| [POST] | [/upload] | [endpoint to upload files] |
 
 [Fill in one row per endpoint that works. Delete the brackets. Only list what exists.]
 
